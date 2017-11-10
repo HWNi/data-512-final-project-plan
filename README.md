@@ -11,7 +11,7 @@ Yelp has already initiated a project named [Yelp Dataset Challenge](https://www.
 ## Research Questions
 **Note that I will narrow down the scope of my investigation subject to restaurants in [Greater Seattle area](http://greaterseattle.us).**
 
-* Main Topic: Are Yelp ratings and reviews trustworthy overall?
+**Main Topic: Are Yelp ratings and reviews trustworthy overall?**
 Looking for a scientific way to evaluate the efficacy of Yelp rating and review system will be the major goal of my research. During the Yelp recommendation system background research, I was informed that Yelp has an automated recommendation software which is running constantly to examine the quality of user-generated ratings and reviews. This means ratings on Yelp are not only determined by users’ ratings but also filtered by some rules implemented by Yelp recommendation software. The subtlety of the Yelp rating mechanism could lead to a plenty of research questions that would be interesting to explore. In order to be more definitive on my research topic, I intend to divide my research into 2 types: a) Studying the Yelp rating system without considering the review system and b) integrative study on the Yelp rating and review. The following questions will be focused in my project:
 
 *RQ1: What are the correlations between business overall rating and various non-review-related characteristics of the business such as price, location, number of photos uploaded etc. look like?*
