@@ -45,7 +45,7 @@ The result of “[The warm-start bias of Yelp ratings](https://arxiv.org/abs/120
 
 [The Groupon Effect on Yelp Ratings: A Root Cause Analysis](https://arxiv.org/abs/1202.2369)
 
-In my research, I wish I could replicate the results generated from these past works and figure out some new potential bias in the Yelp rating system. 
+For my project, I wish I could replicate the results generated from these past works and figure out some new potential bias in the Yelp rating system. 
 
 *Hypotheses to RQ2*
 
