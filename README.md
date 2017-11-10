@@ -70,10 +70,15 @@ _How to use it:_
 This dataset will help me identify my research subjects and provide relevant information I need to answer my first research question. As I mentioned before, my project will focus on the restaurants in greater Seattle area, so I need to do some filtering on the categories. Note that the category data looks like:
 
 // an array of strings of business categories
+
     "categories": [
+
         "Mexican",
+
         "Burgers",
+
         "Gastropubs"
+        
     ],
 
 which has a variety of tags. It’s impossible to get all restaurants in the data by simply searching “restaurant” for category. Thus, I will need to do some explorations to the category in business data and figure out the set of applicable categories to my research.
